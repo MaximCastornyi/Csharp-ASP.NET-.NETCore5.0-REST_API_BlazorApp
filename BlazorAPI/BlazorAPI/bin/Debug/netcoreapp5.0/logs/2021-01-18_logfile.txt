@@ -1,0 +1,8 @@
+2021-01-18 17:10:33.4527 INFO Users - Register: Registration Attempt for kuku@kuku.com 
+2021-01-18 17:10:33.4527 INFO Users - Register: Registration Attempt for kuku@kuku.com 
+2021-01-18 17:10:34.8753 ERROR Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2021-01-18 17:10:34.8753 ERROR Users - Register: PasswordRequiresNonAlphanumeric Passwords must have at least one non alphanumeric character.
+2021-01-18 17:10:34.9465 ERROR Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2021-01-18 17:10:35.1686 ERROR Users - Register: kuku@kuku.com User Registration Attempt Failed
+2021-01-18 17:10:35.0899 ERROR Users - Register: PasswordRequiresUpper Passwords must have at least one uppercase ('A'-'Z').
+2021-01-18 17:10:35.3051 ERROR Users - Register: kuku@kuku.com User Registration Attempt Failed
